@@ -1,0 +1,35 @@
+###############################################################
+
+Created CMS Application using Nextjs and Nodejs
+###############################################################
+
+Client Side Tools Used
+=================================================================
+HTML5,CSS4,Bootstrap5,JavascriptES6,Nextjs@15
+
+Server Side Tools Used
+===============================================================
+Nodejs,Expressjs[Middleware],Mysql[Database]
+
+Project GitHuB Link:-
+======================
+https://github.com/buzzer246/NextCMSApp
+
+================================================================
+
+To Run Project:-
+=======================
+1)Create NextjsApp.
+2) Extract Client and Server Folders.
+3)Copy and Paste in same Folders.
+4)Save and Run the Command ["*** npm install ****"] for Both client and Server Folders.
+5)Navigate to ClientApp and type the command ["npm run dev"].
+6)Navigate to Server and type the command ["nodemon server.js"]=> If you dont have Nodemon install npm install -g nodemon --save.
+=================================================================================================================================
+
+Database Mysql used XAMPP or WAMPP Softwares:-
+===============================================
+Create Database cms
+table cms
+Shared the SQL Database files in GitHuB, Thank you.. Happy Coding
+=======================*************=========================================================================================================
